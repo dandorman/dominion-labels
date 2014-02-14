@@ -1,0 +1,355 @@
+-
+  title: Adventurer
+  expansion: Base
+  type: Action
+  cost: 6
+-
+  title: Bureaucrat
+  expansion: Base
+  type: Action—Attack
+  cost: 4
+-
+  title: Cellar
+  expansion: Base
+  type: Action
+  cost: 2
+-
+  title: Chancellor
+  expansion: Base
+  type: Action
+  cost: 3
+-
+  title: Chapel
+  expansion: Base
+  type: Action
+  cost: 2
+-
+  title: Council Room
+  expansion: Base
+  type: Action
+  cost: 5
+-
+  title: Feast
+  expansion: Base
+  type: Action
+  cost: 4
+-
+  title: Festival
+  expansion: Base
+  type: Action
+  cost: 5
+-
+  title: Laboratory
+  expansion: Base
+  type: Action
+  cost: 5
+-
+  title: Library
+  expansion: Base
+  type: Action
+  cost: 5
+-
+  title: Market
+  expansion: Base
+  type: Action
+  cost: 5
+-
+  title: Militia
+  expansion: Base
+  type: Action—Attack
+  cost: 4
+-
+  title: Mine
+  expansion: Base
+  type: Action
+  cost: 5
+-
+  title: Moat
+  expansion: Base
+  type: Action—Reaction
+  cost: 2
+-
+  title: Money Lender
+  expansion: Base
+  type: Action
+  cost: 4
+-
+  title: Remodel
+  expansion: Base
+  type: Action
+  cost: 4
+-
+  title: Smithy
+  expansion: Base
+  type: Action
+  cost: 4
+-
+  title: Spy
+  expansion: Base
+  type: Action—Attack
+  cost: 4
+-
+  title: Thief
+  expansion: Base
+  type: Action—Attack
+  cost: 4
+-
+  title: Throne Room
+  expansion: Base
+  type: Action
+  cost: 4
+-
+  title: Village
+  expansion: Base
+  type: Action
+  cost: 3
+-
+  title: Witch
+  expansion: Base
+  type: Action—Attack
+  cost: 5
+-
+  title: Woodcutter
+  expansion: Base
+  type: Action
+  cost: 3
+-
+  title: Workshop
+  expansion: Base
+  type: Action
+  cost: 3
+-
+  title: Copper
+  expansion: Base
+  type: Treasure
+  cost: 0
+-
+  title: Silver
+  expansion: Base
+  type: Treasure
+  cost: 3
+-
+  title: Gold
+  expansion: Base
+  type: Treasure
+  cost: 6
+-
+  title: Curse
+  expansion: Base
+  type: Curse
+  cost: 0
+-
+  title: Estate
+  expansion: Base
+  type: Victory
+  cost: 2
+-
+  title: Gardens
+  expansion: Base
+  type: Victory
+  cost: 4
+-
+  title: Duchy
+  expansion: Base
+  type: Victory
+  cost: 5
+-
+  title: Province
+  expansion: Base
+  type: Victory
+  cost: 8
+-
+  title: Embargo
+  expansion: Seaside
+  type: Action
+  cost: 2
+-
+  title: Haven
+  expansion: Seaside
+  type: Action—Duration
+  cost: 2
+-
+  title: Lighthouse
+  expansion: Seaside
+  type: Action—Duration
+  cost: 2
+-
+  title: Native Village
+  expansion: Seaside
+  type: Action
+  cost: 2
+-
+  title: Pearl Diver
+  expansion: Seaside
+  type: Action
+  cost: 2
+-
+  title: Ambassador
+  expansion: Seaside
+  type: Action—Attack
+  cost: 3
+-
+  title: Fishing Village
+  expansion: Seaside
+  type: Action—Duration
+  cost: 3
+-
+  title: Lookout
+  expansion: Seaside
+  type: Action
+  cost: 3
+-
+  title: Smugglers
+  expansion: Seaside
+  type: Action
+  cost: 3
+-
+  title: Warehouse
+  expansion: Seaside
+  type: Action
+  cost: 3
+-
+  title: Caravan
+  expansion: Seaside
+  type: Action—Duration
+  cost: 4
+-
+  title: Cutpurse
+  expansion: Seaside
+  type: Action—Attack
+  cost: 4
+-
+  title: Island
+  expansion: Seaside
+  type: Action—Victory
+  cost: 4
+-
+  title: Navigator
+  expansion: Seaside
+  type: Action
+  cost: 4
+-
+  title: Pirate Ship
+  expansion: Seaside
+  type: Action—Attack
+  cost: 4
+-
+  title: Salvager
+  expansion: Seaside
+  type: Action
+  cost: 4
+-
+  title: Sea Hag
+  expansion: Seaside
+  type: Action—Attack
+  cost: 4
+-
+  title: Treasure Map
+  expansion: Seaside
+  type: Action
+  cost: 4
+-
+  title: Bazaar
+  expansion: Seaside
+  type: Action
+  cost: 5
+-
+  title: Explorer
+  expansion: Seaside
+  type: Action
+  cost: 5
+-
+  title: Ghost Ship
+  expansion: Seaside
+  type: Action—Attack
+  cost: 5
+-
+  title: Merchant Ship
+  expansion: Seaside
+  type: Action—Duration
+  cost: 5
+-
+  title: Outpost
+  expansion: Seaside
+  type: Action—Duration
+  cost: 6
+-
+  title: Tactician
+  expansion: Seaside
+  type: Action—Duration
+  cost: 5
+-
+  title: Treasury
+  expansion: Seaside
+  type: Action
+  cost: 5
+-
+  title: Wharf
+  expansion: Seaside
+  type: Action—Duration
+  cost: 5
+-
+  title: Herbalist
+  expansion: Alchemy
+  type: Action
+  cost: 2
+-
+  title: Potion
+  expansion: Alchemy
+  type: Treasure
+  cost: 4
+-
+  title: Apprentice
+  expansion: Alchemy
+  type: Action
+  cost: 5
+-
+  title: Transmute
+  expansion: Alchemy
+  type: Action
+  cost: 0
+-
+  title: Vineyard
+  expansion: Alchemy
+  type: Victory
+  cost: 0
+-
+  title: Apothecary
+  expansion: Alchemy
+  type: Action
+  cost: 2
+-
+  title: Scrying Pool
+  expansion: Alchemy
+  type: Action—Attack
+  cost: 2
+-
+  title: University
+  expansion: Alchemy
+  type: Action
+  cost: 2
+-
+  title: Alchemist
+  expansion: Alchemy
+  type: Action
+  cost: 3
+-
+  title: Familiar
+  expansion: Alchemy
+  type: Action—Attack
+  cost: 3
+-
+  title: Philosopher’s Stone
+  expansion: Alchemy
+  type: Treasure
+  cost: 4
+-
+  title: Golem
+  expansion: Alchemy
+  type: Action
+  cost: 4
+-
+  title: Possession
+  expansion: Alchemy
+  type: Action
+  cost: 6
